@@ -1,89 +1,89 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX0
-http://51.15.125.186:8081/live/adult1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDQgQU0maGFzaF92YWx1ZT1XWVBmVkNSZndCV0MzZEoyZkd6QjRRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzIgQU0maGFzaF92YWx1ZT1CN3FzcjBSMVpENXpOSDRaTU1KQWlRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX1
-http://51.15.125.186:8081/live/adult2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDUgQU0maGFzaF92YWx1ZT1JTThXbWkzSytTVmhCT2NvYkUwRVNBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzQgQU0maGFzaF92YWx1ZT1wNDZiWHRtbVVqbUgrcDFYVWVFeHVBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX2
-http://51.15.125.186:8081/live/adult3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDYgQU0maGFzaF92YWx1ZT1uaWVIcStNUk8zeGsyVWx5YldrbkF3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzQgQU0maGFzaF92YWx1ZT1wNDZiWHRtbVVqbUgrcDFYVWVFeHVBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX3
-http://51.15.125.186:8081/live/adult4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDYgQU0maGFzaF92YWx1ZT1uaWVIcStNUk8zeGsyVWx5YldrbkF3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzUgQU0maGFzaF92YWx1ZT04YVkyc1FtRXhwNEkxUjVEdWxjYUhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX4
-http://51.15.125.186:8081/live/adult5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDcgQU0maGFzaF92YWx1ZT1sdldMQzd1Sm03a1VrblJBc2NRNlpnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzUgQU0maGFzaF92YWx1ZT04YVkyc1FtRXhwNEkxUjVEdWxjYUhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX5
-http://51.15.125.186:8081/live/adult6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDcgQU0maGFzaF92YWx1ZT1sdldMQzd1Sm03a1VrblJBc2NRNlpnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzYgQU0maGFzaF92YWx1ZT13SWFZYkllQ01FRUF0bkFPSE1zbjl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX6
-http://51.15.125.186:8081/live/adult7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDggQU0maGFzaF92YWx1ZT01cW9IMWV5VDd4NGtaeEdOWlAzdGd3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzYgQU0maGFzaF92YWx1ZT13SWFZYkllQ01FRUF0bkFPSE1zbjl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX7
-http://51.15.125.186:8081/live/adult8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDggQU0maGFzaF92YWx1ZT01cW9IMWV5VDd4NGtaeEdOWlAzdGd3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzcgQU0maGFzaF92YWx1ZT1XSTVkbysxaXlzdWRXMEdUSGNNdm1RPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX8
-http://51.15.125.186:8081/live/adult9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NDkgQU0maGFzaF92YWx1ZT1sWEsrODBUSFZ4WmJpQm9GRFArNEhRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzggQU0maGFzaF92YWx1ZT0wMksrSmlFb21iZnd6K3VJOG94U3JRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX9
-http://51.15.125.186:8081/live/adult10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTAgQU0maGFzaF92YWx1ZT1jTGZBUDRHam51YmVXYnUxVkVhdTZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/adult10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzggQU0maGFzaF92YWx1ZT0wMksrSmlFb21iZnd6K3VJOG94U3JRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX10
-http://51.15.125.186:8081/live/barelylegal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTAgQU0maGFzaF92YWx1ZT1jTGZBUDRHam51YmVXYnUxVkVhdTZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/barelylegal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzkgQU0maGFzaF92YWx1ZT1URWdzTUNWb01ENUR5cDNMMy85enlnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX11
-http://51.15.125.186:8081/live/bluehustler/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTEgQU0maGFzaF92YWx1ZT1VcHk5Z2IyNUlqOFBCZEpudFJTVDJRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/bluehustler/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6MzkgQU0maGFzaF92YWx1ZT1URWdzTUNWb01ENUR5cDNMMy85enlnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX12
-http://51.15.125.186:8081/live/privatespice/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTEgQU0maGFzaF92YWx1ZT1VcHk5Z2IyNUlqOFBCZEpudFJTVDJRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/privatespice/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDAgQU0maGFzaF92YWx1ZT1rOFY2V3AwN2llMzZDc0hLSm5VaDNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX13
-http://51.15.125.186:8081/live/bhls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTIgQU0maGFzaF92YWx1ZT1CZVdveXNydXNYK29yQ0NhTUZoK2hBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/bhls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDEgQU0maGFzaF92YWx1ZT1xejZoWGdWeStEVlRmclRGWGRRWEtnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX14
-http://51.15.125.186:8081/live/centoxcento/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTMgQU0maGFzaF92YWx1ZT1vbmJFRURidGRIblJEQU5FSGNmMlJBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/centoxcento/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDEgQU0maGFzaF92YWx1ZT1xejZoWGdWeStEVlRmclRGWGRRWEtnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX15
-http://51.15.125.186:8081/live/exotica/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTMgQU0maGFzaF92YWx1ZT1vbmJFRURidGRIblJEQU5FSGNmMlJBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/exotica/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDIgQU0maGFzaF92YWx1ZT1BQzBFTm50RzVEVG1CSjZTbms4a2JBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX16
-http://51.15.125.186:8081/live/platino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTQgQU0maGFzaF92YWx1ZT1La2EwZldETUF6YnltdDJRNU1XQ0R3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/platino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDIgQU0maGFzaF92YWx1ZT1BQzBFTm50RzVEVG1CSjZTbms4a2JBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX17
-http://51.15.125.186:8081/live/eroxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTUgQU0maGFzaF92YWx1ZT1rQjRHajlLTDhKd0hXRXc3akUyTTdRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/eroxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDMgQU0maGFzaF92YWx1ZT1YWk1KWjkrUE8xT21BYVR5UXBSbk9nPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX18
-http://51.15.125.186:8081/live/pinkerotic2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTUgQU0maGFzaF92YWx1ZT1rQjRHajlLTDhKd0hXRXc3akUyTTdRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pinkerotic2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDMgQU0maGFzaF92YWx1ZT1YWk1KWjkrUE8xT21BYVR5UXBSbk9nPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX19
-http://51.15.125.186:8081/live/pinkerotic3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTYgQU0maGFzaF92YWx1ZT1RVjY1YWg1VEY5NEZSTlhpell5SFZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pinkerotic3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDQgQU0maGFzaF92YWx1ZT0zQVR5L3ZNZitJZWh0S2lxNEpJUGxRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX20
-http://51.15.125.186:8081/live/pinkerotic4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTYgQU0maGFzaF92YWx1ZT1RVjY1YWg1VEY5NEZSTlhpell5SFZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pinkerotic4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDUgQU0maGFzaF92YWx1ZT1hai9PVGlLNFRBdUZycWlTbEJ3MEdRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX21
-http://51.15.125.186:8081/live/faptvlesbian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTcgQU0maGFzaF92YWx1ZT00NHJLSkZYSWw2bHJnNDFTYzd2akt3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/faptvlesbian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDUgQU0maGFzaF92YWx1ZT1hai9PVGlLNFRBdUZycWlTbEJ3MEdRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX22
-http://51.15.125.186:8081/live/faptvparody/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTggQU0maGFzaF92YWx1ZT1hQVJwSWdMQUhCVC8wRG4rZXNBL3lnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/faptvparody/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDYgQU0maGFzaF92YWx1ZT1QaWttRkpMZ0FCemlmQisxMW9lTGRBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX23
-http://51.15.125.186:8081/live/faptvteens/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTkgQU0maGFzaF92YWx1ZT1MUndrb2o5SFMydHdleXNJa1hEK253PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/faptvteens/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDcgQU0maGFzaF92YWx1ZT1EY0w3cDVSRHdyaHFCbXhEckY5MzdRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX24
-http://51.15.125.186:8081/live/pinkerotic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTQ6NTkgQU0maGFzaF92YWx1ZT1MUndrb2o5SFMydHdleXNJa1hEK253PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pinkerotic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDcgQU0maGFzaF92YWx1ZT1EY0w3cDVSRHdyaHFCbXhEckY5MzdRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX25
-http://51.15.125.186:8081/live/hustlernew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDAgQU0maGFzaF92YWx1ZT1KWnBYd1EzUU4yWmRLcmdOUDZjWjVnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/hustlernew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDggQU0maGFzaF92YWx1ZT1QdXFQVU1YMFZjdmd3ajRIbGdKSGJ3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX26
-http://51.15.125.186:8081/live/legalpnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDEgQU0maGFzaF92YWx1ZT1Ma05tZmZOTGJVa1FUL1NIVjUwQkVnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/legalpnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NDkgQU0maGFzaF92YWx1ZT1nVUcwMmVtNFJKTWFia3p5UVFueExRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX27
-http://51.15.125.186:8081/live/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDIgQU0maGFzaF92YWx1ZT10N3lKOC85dTA2a3NmazhYcTRTUEhnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTAgQU0maGFzaF92YWx1ZT04aHZqV3BnZG1UbHRvY2Y5U0lka1lRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX28
-http://51.15.125.186:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDIgQU0maGFzaF92YWx1ZT10N3lKOC85dTA2a3NmazhYcTRTUEhnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTAgQU0maGFzaF92YWx1ZT04aHZqV3BnZG1UbHRvY2Y5U0lka1lRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX29
-http://51.15.125.186:8081/live/ola/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDMgQU0maGFzaF92YWx1ZT1CR0NQNVFLS2IwZ1RSYXI5V1FjdmVnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/ola/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTEgQU0maGFzaF92YWx1ZT1sZTM0YUVBRnByTVZ3czZuTmh4TVBRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX30
-http://51.15.125.186:8081/live/frenchlover/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDMgQU0maGFzaF92YWx1ZT1CR0NQNVFLS2IwZ1RSYXI5V1FjdmVnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/frenchlover/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTEgQU0maGFzaF92YWx1ZT1sZTM0YUVBRnByTVZ3czZuTmh4TVBRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX31
-http://51.15.125.186:8081/live/passionx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDQgQU0maGFzaF92YWx1ZT1nVUJtMEVuYmMrRTZPQU1ZaWtVU2FnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/passionx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTIgQU0maGFzaF92YWx1ZT0yOXZ4dEY5RnBGVTQyMUlObXJSczZBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX32
-http://51.15.125.186:8081/live/pmarie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDYgQU0maGFzaF92YWx1ZT1Kc3ovK0t6eVNVOHdYbTZ1dnh1NTh3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pmarie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTQgQU0maGFzaF92YWx1ZT1KajNyK1k5M2M5eC85eTBURG1DVjNnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX33
-http://51.15.125.186:8081/live/pinko/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDcgQU0maGFzaF92YWx1ZT1wckxzN3Q4RHVrYXlOQ0RMSTlJYTZ3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/pinko/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTUgQU0maGFzaF92YWx1ZT1ERW9kQ3pUVUlsVGw2UEJGOSsxdkl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX34
-http://51.15.125.186:8081/live/playboy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDcgQU0maGFzaF92YWx1ZT1wckxzN3Q4RHVrYXlOQ0RMSTlJYTZ3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/playboy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTUgQU0maGFzaF92YWx1ZT1ERW9kQ3pUVUlsVGw2UEJGOSsxdkl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX35
-http://51.15.125.186:8081/live/xxl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDggQU0maGFzaF92YWx1ZT0yMndWWHVhMUZoL3V0TVllR3lSLy9BPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/xxl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTYgQU0maGFzaF92YWx1ZT1HK1dwdW93SDdoMG9PL1MrNjVjdVJRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX36
-http://51.15.125.186:8081/live/rlow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDggQU0maGFzaF92YWx1ZT1KdjB0SzVwRGtUSVRlWEtFcG14SEhnPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/rlow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTYgQU0maGFzaF92YWx1ZT1EclcraWR4YXJNRGFTcklBenh6OGFBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX37
-http://51.15.125.186:8081/live/ren/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MDkgQU0maGFzaF92YWx1ZT02QitLWFlHdUxzT0lpQ2FKcUVseExRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/ren/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTcgQU0maGFzaF92YWx1ZT1FbjBxU0xyMzg3V2hHYUt2OFlaVStBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX38
-http://51.15.125.186:8081/live/russiannight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTAgQU0maGFzaF92YWx1ZT1kYVF6OExheEVVMGRiOUFMYzdxdjZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/russiannight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTggQU0maGFzaF92YWx1ZT1WTDRmM01SeTNVTUhiY20vQWQvMkdBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX39
-http://51.15.125.186:8081/live/sct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTAgQU0maGFzaF92YWx1ZT1kYVF6OExheEVVMGRiOUFMYzdxdjZRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/sct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTggQU0maGFzaF92YWx1ZT1WTDRmM01SeTNVTUhiY20vQWQvMkdBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX40
-http://51.15.125.186:8081/live/sext6senso/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTEgQU0maGFzaF92YWx1ZT1ydWcwcmZuL2x3M1FuNnlQbkdZWTl3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/sext6senso/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDU6NTkgQU0maGFzaF92YWx1ZT0wdlBxNkYvNmc5TEUwRnZPOWlHa2hRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX41
-http://51.15.125.186:8081/live/venus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTMgQU0maGFzaF92YWx1ZT1aWDJNOGI0amwvRTNjSzBqQ3lMZTNBPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/venus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDY6MDAgQU0maGFzaF92YWx1ZT11ZHFOOUdGUWl0OUt1ZDFYN1BkeU93PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX42
-http://51.15.125.186:8081/live/varmint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTMgQU0maGFzaF92YWx1ZT1YK3VYM0V0UFEwcjRad01WYm5YZVZ3PT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/varmint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDY6MDEgQU0maGFzaF92YWx1ZT1JK1BLUGhaaXdFSVUrS2hyU2NYV1V3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX43
-http://51.15.125.186:8081/live/zestnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDU6NTU6MTQgQU0maGFzaF92YWx1ZT13eVdpUTExYitiRG5tUmY1akJlcExRPT0mdmFsaWRtaW51dGVzPTE4MA==
+http://51.15.125.186:8081/live/zestnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDE5IDY6MDY6MDIgQU0maGFzaF92YWx1ZT1QZnkxQWRRcnN1eVFDK2NoTnlSeFhnPT0mdmFsaWRtaW51dGVzPTE4MA==
