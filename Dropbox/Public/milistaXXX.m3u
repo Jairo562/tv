@@ -1,93 +1,89 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 1
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjUgUE0maGFzaF92YWx1ZT1wVkQ0TzBjNk4zNTVjbmdrUXpnK0t3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 2
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjYgUE0maGFzaF92YWx1ZT1Ed0xydDhEUXZlU3VGem5paW1Jakl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 3
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjYgUE0maGFzaF92YWx1ZT1Ed0xydDhEUXZlU3VGem5paW1Jakl3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 4
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjcgUE0maGFzaF92YWx1ZT0xRHlRUnVnQ2VpS1dpTys3Sk5xUjlRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 5
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjggUE0maGFzaF92YWx1ZT11U2lQUmlVQy9MTUEwWUNGcm1UUG1RPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 6
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjggUE0maGFzaF92YWx1ZT11U2lQUmlVQy9MTUEwWUNGcm1UUG1RPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 7
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjkgUE0maGFzaF92YWx1ZT1PR1E4TzNXeFpBWUlGOElHK0lFeEFnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 8
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MjkgUE0maGFzaF92YWx1ZT1PR1E4TzNXeFpBWUlGOElHK0lFeEFnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 9
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzAgUE0maGFzaF92YWx1ZT1BRE9Xdm9kdEVqb29RczhSbkJ3Y0x3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 10
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/adult10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzAgUE0maGFzaF92YWx1ZT1BRE9Xdm9kdEVqb29RczhSbkJ3Y0x3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 11
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/barelylegal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzEgUE0maGFzaF92YWx1ZT1EeXh5OHdpZncyWmNqRW5IQktxTlFnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 12
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/bluehustler/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzIgUE0maGFzaF92YWx1ZT1La1JQQXcyMXN6RjJwTmYvdHIzYWlnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 13
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/privatespice/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzIgUE0maGFzaF92YWx1ZT1La1JQQXcyMXN6RjJwTmYvdHIzYWlnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 14
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/bhls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzMgUE0maGFzaF92YWx1ZT11WHNmTmZCNlFJK0FNQ3UwbUlSeFhBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 15
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/centoxcento/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzQgUE0maGFzaF92YWx1ZT1JRWdTbUxPTm1Hd1kvRXZuS3E1TXh3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 16
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/exotica/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzQgUE0maGFzaF92YWx1ZT1JRWdTbUxPTm1Hd1kvRXZuS3E1TXh3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 17
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/platino/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzUgUE0maGFzaF92YWx1ZT02V01LRFRGbWhyeU1HZTl2Ynd0cVpBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 18
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/eroxxx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzUgUE0maGFzaF92YWx1ZT02V01LRFRGbWhyeU1HZTl2Ynd0cVpBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 19
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pinkerotic2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzYgUE0maGFzaF92YWx1ZT1UYXVCNytEaVRmbmlzWEYxa1RSblRRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 20
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pinkerotic3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzYgUE0maGFzaF92YWx1ZT1UYXVCNytEaVRmbmlzWEYxa1RSblRRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 21
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pinkerotic4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzcgUE0maGFzaF92YWx1ZT1mcXZGNjRPYnFQYktWUzdQMDNldkNnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 22
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/faptvlesbian/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzcgUE0maGFzaF92YWx1ZT1mcXZGNjRPYnFQYktWUzdQMDNldkNnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 23
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/faptvparody/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzggUE0maGFzaF92YWx1ZT1zUUl2MGsrNVVrYkV4SEl6b1J5N1BRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 24
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/faptvteens/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6MzkgUE0maGFzaF92YWx1ZT1NdXpvSXJnMHROK0M0NWhTdlF2bDVRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 25
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pinkerotic/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDAgUE0maGFzaF92YWx1ZT14cnRXdXlkS3ZXOC85dWFFWStGSFNRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 26
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/hustlernew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDEgUE0maGFzaF92YWx1ZT0wTTg4NDg5U2IzYXRFTU9BM0gxSkNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 27
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/legalpnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDEgUE0maGFzaF92YWx1ZT0wTTg4NDg5U2IzYXRFTU9BM0gxSkNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 28
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/hustlerhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDIgUE0maGFzaF92YWx1ZT1zNmlqMVlJNE9SUWFlWnNnalVjdVp3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 29
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/nuart/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDIgUE0maGFzaF92YWx1ZT1zNmlqMVlJNE9SUWFlWnNnalVjdVp3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 30
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/ola/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDMgUE0maGFzaF92YWx1ZT0zUDJwRnFFeG1NQ2lPVmRPdmpUM3FnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 31
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/frenchlover/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDMgUE0maGFzaF92YWx1ZT0zUDJwRnFFeG1NQ2lPVmRPdmpUM3FnPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 32
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/passionx/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDQgUE0maGFzaF92YWx1ZT0vR0ZXQUU4MmdNVTAxd3FWOUpZT1dBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 33
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pmarie/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDYgUE0maGFzaF92YWx1ZT1jWlBPamV5RmNId1ZsQ2NnQm5zZnVRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 34
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pinko/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDYgUE0maGFzaF92YWx1ZT1jWlBPamV5RmNId1ZsQ2NnQm5zZnVRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 35
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/pbhls/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDcgUE0maGFzaF92YWx1ZT12ME8zamdvakIwRDI1WHE2Q1N2RnNRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 36
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/xxl/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDcgUE0maGFzaF92YWx1ZT13cWpTd0JZYmJwZEEwVnFuT0lMaHZRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 37
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/rlow/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDggUE0maGFzaF92YWx1ZT0veFBrN0VsbDlkWWZ4NUoxUXc2dEZRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 38
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/ren/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDggUE0maGFzaF92YWx1ZT0veFBrN0VsbDlkWWZ4NUoxUXc2dEZRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 39
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/russiannight/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NDkgUE0maGFzaF92YWx1ZT1KZTl4eTVzcmlIdENsNXZDYW53Q0d3PT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 40
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/sct/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NTAgUE0maGFzaF92YWx1ZT02dzRWbzJXSnllcE00b0ZPY1VYeVNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 41
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/sext6senso/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NTAgUE0maGFzaF92YWx1ZT02dzRWbzJXSnllcE00b0ZPY1VYeVNBPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 42
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/venus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NTIgUE0maGFzaF92YWx1ZT1Uc3k1T3JNclI5eHlNblIzOHVOS3RRPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 43
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/varmint/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NTIgUE0maGFzaF92YWx1ZT1ZZHErYzdVWDdGaXpDQWlFZXBEWE1nPT0mdmFsaWRtaW51dGVzPTE4MA==
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 44
-http://iptvscripts.com/index2.html
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 45
-http://iptvscripts.com/index2.html
-#EXTINF:-1 tvg-name="" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/279.png" group-title="ADULTO",LIVE XXX 46
-http://iptvscripts.com/index2.html
+http://51.15.125.186:8081/live/zestnew/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMi8yMDE5IDc6NDE6NTMgUE0maGFzaF92YWx1ZT0xdkhCcDR6b1haakd3OVRsdGZBeUpBPT0mdmFsaWRtaW51dGVzPTE4MA==
