@@ -14,6 +14,8 @@ app = Flask(__name__)
 CORS(app)
 
 DEFAULT_PAGE_URL = "http://oxax.tv/oh-ah.html"
+DEFAULT_REFERER = "http://oxax.tv/"
+DEFAULT_ORIGIN = "http://oxax.tv"
 
 UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -41,26 +43,50 @@ GARBAGE = [
 ]
 
 
+def build_page_headers():
+    return {
+        "User-Agent": UA,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+        "Referer": DEFAULT_REFERER,
+        "Origin": DEFAULT_ORIGIN,
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+        "Connection": "keep-alive",
+    }
+
+
+def build_stream_headers(stream_url):
+    parsed = urlparse(stream_url)
+
+    return {
+        "Host": parsed.netloc,
+        "Connection": "keep-alive",
+        "sec-ch-ua-platform": '"Windows"',
+        "User-Agent": UA,
+        "sec-ch-ua": '"Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"',
+        "sec-ch-ua-mobile": "?0",
+        "Accept": "*/*",
+        "Origin": DEFAULT_ORIGIN,
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "Referer": DEFAULT_REFERER,
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+        "Accept-Encoding": "gzip, deflate",
+    }
+
+
 def extract_live_url(page_url: str):
     session = requests.Session()
 
-    headers_page = {
-        "User-Agent": UA,
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-        "Referer": "http://oxax.tv/",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-        "Accept-Encoding": "gzip, deflate",
-        "Connection": "keep-alive"
-    }
-
-    r = session.get(
+    response_page = session.get(
         page_url,
-        headers=headers_page,
-        timeout=15,
+        headers=build_page_headers(),
+        timeout=20,
         verify=False
     )
 
-    html = r.text
+    html = response_page.text
 
     kodk = re.search(r'kodk="(.*?)"', html)
     kos = re.search(r'kos="(.*?)"', html)
@@ -69,9 +95,11 @@ def extract_live_url(page_url: str):
     if not block:
         return {
             "status": "error",
+            "step": "html_extract",
             "message": "No se encontró bloque #F",
-            "http_status": r.status_code,
-            "preview": html[:500]
+            "http_status": response_page.status_code,
+            "page_url": page_url,
+            "preview": html[:800]
         }
 
     datacode = block.group(1)
@@ -92,13 +120,15 @@ def extract_live_url(page_url: str):
     except Exception as e:
         return {
             "status": "error",
-            "message": f"Error decodificando Base64/JSON: {str(e)}",
-            "datacode": datacode[:500]
+            "step": "base64_decode",
+            "message": str(e),
+            "datacode_preview": datacode[:800]
         }
 
     if "file" not in data:
         return {
             "status": "error",
+            "step": "json_file",
             "message": "No existe 'file' en el JSON decodificado",
             "decoded": data
         }
@@ -116,47 +146,30 @@ def extract_live_url(page_url: str):
     if not stream_url.startswith("http"):
         return {
             "status": "error",
+            "step": "stream_url",
             "message": "URL stream inválida",
             "stream_raw": stream_raw
         }
 
-    parsed = urlparse(stream_url)
-
-    headers_stream = {
-        "Host": parsed.netloc,
-        "Connection": "keep-alive",
-        "sec-ch-ua-platform": '"Windows"',
-        "User-Agent": UA,
-        "sec-ch-ua": '"Chromium";v="148", "Google Chrome";v="148", "Not/A)Brand";v="99"',
-        "sec-ch-ua-mobile": "?0",
-        "Accept": "*/*",
-        "Origin": "http://oxax.tv",
-        "Sec-Fetch-Site": "cross-site",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Dest": "empty",
-        "Referer": "http://oxax.tv/",
-        "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
-        "Accept-Encoding": "gzip, deflate"
-    }
-
-    r2 = session.get(
+    response_stream = session.get(
         stream_url,
-        headers=headers_stream,
-        timeout=10,
+        headers=build_stream_headers(stream_url),
+        timeout=15,
         allow_redirects=False,
         verify=False
     )
 
-    location = r2.headers.get("Location")
+    location = response_stream.headers.get("Location")
 
     if not location:
         return {
             "status": "error",
+            "step": "redirect_location",
             "message": "No se encontró Location en la respuesta del stream",
-            "http_status": r2.status_code,
+            "http_status": response_stream.status_code,
             "stream_url": stream_url,
-            "preview": r2.text[:500],
-            "headers": dict(r2.headers)
+            "headers": dict(response_stream.headers),
+            "preview": response_stream.text[:800]
         }
 
     live_url = urljoin(stream_url, location)
@@ -165,7 +178,7 @@ def extract_live_url(page_url: str):
         "status": "ok",
         "page_url": page_url,
         "stream_url": stream_url,
-        "http_status": r2.status_code,
+        "http_status": response_stream.status_code,
         "location": location,
         "url": live_url
     }
@@ -187,6 +200,46 @@ def health():
 @app.route("/live")
 def live():
     page_url = request.args.get("page", DEFAULT_PAGE_URL)
+
     result = extract_live_url(page_url)
+
     status_code = 200 if result.get("status") == "ok" else 500
+
     return jsonify(result), status_code
+
+
+@app.route("/resolve")
+def resolve():
+    url = request.args.get("url")
+
+    if not url:
+        return jsonify({
+            "status": "error",
+            "message": "Falta el parámetro url"
+        }), 400
+
+    try:
+        response = requests.get(
+            url,
+            headers=build_stream_headers(url),
+            timeout=15,
+            allow_redirects=False,
+            verify=False
+        )
+
+        location = response.headers.get("Location")
+
+        return jsonify({
+            "status": "ok",
+            "http_status": response.status_code,
+            "location": location,
+            "url": urljoin(url, location) if location else None,
+            "headers": dict(response.headers),
+            "preview": response.text[:500] if not location else None
+        })
+
+    except Exception as e:
+        return jsonify({
+            "status": "error",
+            "message": str(e)
+        }), 500
